@@ -10,9 +10,9 @@ Docker跟傳統VM的比較([圖片來源](https://www.docker.com/resources/what-
 
 ## Docker安裝
 
-![windows install Docker desktop](https://docs.docker.com/desktop/windows/install/)
+[windows install Docker desktop](https://docs.docker.com/desktop/windows/install/)
 
-![mac install Docker desktop](https://docs.docker.com/desktop/mac/install/)
+[mac install Docker desktop](https://docs.docker.com/desktop/mac/install/)
 
 ### 使用流程
 write dockerfile-> create image-> build-> run
