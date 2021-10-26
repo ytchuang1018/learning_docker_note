@@ -28,7 +28,7 @@ CMD npm start #最後透過 npm start 會運行 Nodejs App
 ```
 
 ## 相關指令
-![Dockerfile指令教學, 含範例解說](https://www.jinnsblog.com/2018/12/docker-dockerfile-guide.html)
+[Dockerfile指令教學, 含範例解說](https://www.jinnsblog.com/2018/12/docker-dockerfile-guide.html)
 
 ```bash=
 docker -v #查看版本
@@ -207,4 +207,4 @@ docker run -it --network todo-app nicolaka/netshoot # 別人寫的工具
 dig mysql # 找出mysql ip
 ```
 
-![YAML語法教學](http://www.wl-chuang.com/blog/2011/11/06/yaml-tutorial/)
+[YAML語法教學](http://www.wl-chuang.com/blog/2011/11/06/yaml-tutorial/)
